@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title">
+  <title id="title">Light shines over the water</title>
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#70c6e2"/><stop offset="1" stop-color="#f7dda0"/></linearGradient></defs>
+  <rect width="960" height="540" fill="url(#sky)"/>
+  <circle cx="480" cy="210" r="92" fill="#ffd36b"/>
+  <path d="M0 335q120-36 240 0t240 0 240 0 240 0v205H0z" fill="#4fabc2"/>
+  <path d="M0 395q120-28 240 0t240 0 240 0 240 0M0 470q120-28 240 0t240 0 240 0 240 0" fill="none" stroke="#a9e1df" stroke-width="13"/>
+  <path d="M480 100v-48m-85 72-35-37m205 37 35-37m-245 96-52-13m297 13 52-13" stroke="#ffefad" stroke-width="12" stroke-linecap="round"/>
+  <path d="M110 320q95-75 190 0m360 0q95-75 190 0" fill="none" stroke="#fff4d2" stroke-width="12" stroke-linecap="round"/>
+</svg>

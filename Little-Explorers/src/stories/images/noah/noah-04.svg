@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title">
+  <title id="title">A rainbow over Noah's family</title>
+  <rect width="960" height="540" fill="#c7edf3"/>
+  <circle cx="790" cy="100" r="52" fill="#ffd46b"/>
+  <path d="M170 330a310 235 0 0 1 620 0" fill="none" stroke="#ed7a67" stroke-width="26"/>
+  <path d="M200 330a280 205 0 0 1 560 0" fill="none" stroke="#f3c75e" stroke-width="26"/>
+  <path d="M230 330a250 175 0 0 1 500 0" fill="none" stroke="#72b87d" stroke-width="26"/>
+  <path d="M0 390q180-45 340 0t330 0 290 0v150H0" fill="#77ba78"/>
+  <g>
+    <circle cx="385" cy="340" r="31" fill="#e8b88e"/><path d="M354 340q13-56 63-14l-5 19z" fill="#5b3f32"/><path d="M360 375h52l17 94h-83z" fill="#557aa1"/>
+    <circle cx="480" cy="350" r="31" fill="#d99f75"/><path d="M448 345q17-50 64-14v20z" fill="#704a35"/><path d="M455 385h52l17 84h-83z" fill="#d46f5a"/>
+    <circle cx="575" cy="340" r="31" fill="#f0c69d"/><path d="M544 338q13-55 64-13l-5 18z" fill="#68503b"/><path d="M550 375h52l17 94h-83z" fill="#edc45e"/>
+  </g>
+  <path d="M390 470v42m95-42v42m95-42v42" stroke="#694532" stroke-width="12" stroke-linecap="round"/>
+  <path d="M120 420q0-56 42-56t42 56m570 0q0-56 42-56t42 56" fill="#48784b"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title">
+  <title id="title">People, birds, and animals in a garden</title>
+  <rect width="960" height="540" fill="#9edcf0"/>
+  <circle cx="795" cy="95" r="48" fill="#ffd36b"/>
+  <path d="M0 340q180-100 360 0t360 0 240 0v200H0z" fill="#78bf78"/>
+  <path d="M0 430q200-80 400 0t400 0 160 0v110H0z" fill="#58a66a"/>
+  <g fill="#3b835c">
+    <path d="M110 365V175h24v190z"/><circle cx="122" cy="165" r="68"/><circle cx="70" cy="210" r="44"/><circle cx="176" cy="218" r="48"/>
+    <path d="M805 360V190h22v170z"/><circle cx="816" cy="182" r="64"/><circle cx="770" cy="225" r="40"/><circle cx="858" cy="224" r="42"/>
+  </g>
+  <g fill="#e78263"><ellipse cx="300" cy="410" rx="56" ry="31"/><circle cx="340" cy="386" r="25"/><path d="M335 364l-10-28 22 22zm18 4 7-28 11 27z"/></g>
+  <g fill="#fff"><ellipse cx="600" cy="165" rx="28" ry="17"/><circle cx="628" cy="162" r="12"/><path d="M588 160l-24-13v26z"/></g>
+  <g>
+    <circle cx="440" cy="350" r="27" fill="#e8b88e"/><path d="M411 380h58l10 95h-78z" fill="#627eaa"/>
+    <circle cx="520" cy="350" r="27" fill="#d99f75"/><path d="M492 380h56l10 95h-76z" fill="#d4775e"/>
+  </g>
+  <path d="M415 475v36m65-36v36m12-36v36m66-36v36" stroke="#694532" stroke-width="10" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title">
+  <title id="title">The sun, moon, stars, and green earth</title>
+  <rect width="960" height="540" fill="#193d67"/>
+  <circle cx="190" cy="140" r="58" fill="#ffd36b"/>
+  <circle cx="720" cy="145" r="48" fill="#f8edc4"/>
+  <g fill="#fff4cf"><circle cx="380" cy="90" r="7"/><circle cx="510" cy="160" r="6"/><circle cx="850" cy="85" r="7"/><circle cx="625" cy="65" r="5"/><circle cx="310" cy="230" r="5"/></g>
+  <path d="M0 340q180-160 360 0t360 0 240 0v200H0z" fill="#73b974"/>
+  <path d="M0 410q185-105 370 0t370 0 220 0v130H0z" fill="#519b67"/>
+  <g fill="#367b56">
+    <path d="M220 350v-115h20v115zm-42-112q52-70 104 0-52 45-104 0m-5 53q47-61 94 0-47 40-94 0"/>
+    <path d="M690 370v-140h22v140zm-48-122q59-77 118 0-59 50-118 0m-3 61q54-71 108 0-54 46-108 0"/>
+  </g>
+  <path d="M80 440q40-40 80 0m500 50q38-38 76 0m120-95q34-34 68 0" fill="none" stroke="#d0e68a" stroke-width="10" stroke-linecap="round"/>
+</svg>

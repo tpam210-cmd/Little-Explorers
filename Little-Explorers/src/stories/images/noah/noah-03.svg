@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title">
+  <title id="title">The ark floats beneath clearing clouds</title>
+  <rect width="960" height="540" fill="#badfe9"/>
+  <path d="M0 280q90-45 180 0t180 0 180 0 180 0 240 0v260H0z" fill="#66aeca"/>
+  <path d="M0 354q95-35 190 0t190 0 190 0 190 0 200 0M0 442q95-35 190 0t190 0 190 0 190 0 200 0" fill="none" stroke="#a9dce5" stroke-width="12"/>
+  <path d="M240 238h500l-65 140H325z" fill="#a95f3f" stroke="#75442f" stroke-width="12"/>
+  <path d="M300 230l125-110 125 110z" fill="#d98a54" stroke="#75442f" stroke-width="12"/>
+  <path d="M380 270v90m90-90v90m90-90v90m90-90v90" stroke="#f4c28a" stroke-width="12"/>
+  <path d="M82 125q15-56 74-47 26-69 94-30 57-10 68 51 50 21 19 65H99q-40-13-17-39m470-16q14-49 64-42 25-60 82-26 49-8 59 44 43 18 16 56H485q-34-11-15-32" fill="#f4f7f2"/>
+  <path d="M790 180q30-36 60 0-30-9-60 0" fill="#fff"/>
+</svg>

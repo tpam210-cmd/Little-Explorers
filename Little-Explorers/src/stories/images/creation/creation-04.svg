@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title">
+  <title id="title">A beautiful world full of life</title>
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#80d0e8"/><stop offset="1" stop-color="#e3f5ca"/></linearGradient></defs>
+  <rect width="960" height="540" fill="url(#sky)"/>
+  <circle cx="790" cy="95" r="52" fill="#ffd36b"/>
+  <path d="M0 330q150-130 300 0t300 0 360 0v210H0z" fill="#81c77a"/>
+  <path d="M0 420q180-100 360 0t360 0 240 0v120H0z" fill="#55a66b"/>
+  <path d="M124 372V205h22v167zm-46-155q58-78 116 0-58 50-116 0m-13 65q53-70 106 0-53 46-106 0" fill="#39845a"/>
+  <path d="M762 370V200h22v170zm-47-158q59-78 118 0-59 50-118 0m-10 66q55-72 110 0-55 47-110 0" fill="#39845a"/>
+  <g fill="#f2d775"><circle cx="280" cy="450" r="9"/><circle cx="322" cy="470" r="9"/><circle cx="640" cy="442" r="9"/><circle cx="684" cy="470" r="9"/><circle cx="470" cy="498" r="9"/></g>
+  <g fill="#fff"><ellipse cx="400" cy="155" rx="34" ry="20"/><circle cx="433" cy="151" r="14"/><path d="M386 151l-30-17v34z"/><ellipse cx="520" cy="220" rx="27" ry="17"/><circle cx="545" cy="218" r="11"/><path d="M508 217l-24-14v28z"/></g>
+  <g fill="#d68659"><ellipse cx="545" cy="400" rx="48" ry="29"/><circle cx="580" cy="380" r="21"/></g>
+  <g fill="#efcd93"><ellipse cx="420" cy="435" rx="31" ry="20"/><circle cx="445" cy="419" r="14"/></g>
+</svg>

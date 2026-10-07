@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title">
+  <title id="title">Noah beside the ark</title>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#8bd5ee"/><stop offset="1" stop-color="#e7f7dc"/></linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#sky)"/>
+  <circle cx="785" cy="105" r="55" fill="#ffd46b"/>
+  <path d="M0 410Q180 350 365 410T730 400t230 0v140H0" fill="#78b979"/>
+  <path d="M255 340h500l-65 130H335z" fill="#a95f3f" stroke="#75442f" stroke-width="12"/>
+  <path d="M310 330l120-105 120 105z" fill="#d98a54" stroke="#75442f" stroke-width="12"/>
+  <path d="M365 365v75m90-75v75m90-75v75m90-75v75" stroke="#f4c28a" stroke-width="12"/>
+  <path d="M130 400q0-95 64-95t64 95" fill="#425f43"/>
+  <circle cx="194" cy="270" r="38" fill="#f0bd8c"/>
+  <path d="M154 265q30-65 80-5l-8 20h-75z" fill="#5b3f32"/>
+  <path d="M166 309l-16 95h88l-18-95z" fill="#557aa1"/>
+  <path d="M156 400l-25 60m93-60 25 60" stroke="#694532" stroke-width="14" stroke-linecap="round"/>
+</svg>
